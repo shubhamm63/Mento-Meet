@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "667226532393",
+    "project_id": "mentomeet-ae5d2",
+    "storage_bucket": "mentomeet-ae5d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667226532393:android:b498dec9fa5540f63cca38",
+        "android_client_info": {
+          "package_name": "com.example.mentomeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667226532393-dcqdtpcl1rb32j2ki7rvr4nq461b42oc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mentomeet",
+            "certificate_hash": "beaff09d985fb003d3dbe019a7d903ed15940e2a"
+          }
+        },
+        {
+          "client_id": "667226532393-6a4ll51n3v4p1si3e55d1gesinq6rd2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzTZK77RtL-zoEvYdXi_HkPxyvn2kAtW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667226532393-6a4ll51n3v4p1si3e55d1gesinq6rd2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
